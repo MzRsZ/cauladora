@@ -1,13 +1,11 @@
-# Projeto Calculadora - Módulo 1
+# Projeto Cauladora
 
-## Explicação do código Python
-Este projeto contém um notebook (`Exercício módulo 1.ipynb`) que realiza operações matemáticas básicas como soma, subtração, multiplicação e divisão. O código foi estruturado para receber entradas do usuário e exibir o resultado no console.
+## Explicação do Código Python
+O arquivo `Exercício módulo 1.ipynb` contém a lógica da calculadora desenvolvida em Python durante o módulo 1. Ele realiza operações matemáticas básicas.
 
 ## Como executar o arquivo .sh
-O arquivo `.sh` serve para automatizar a execução do script. Para rodá-lo:
+Para executar o script de automação via terminal:
 
-1. Abra o terminal na pasta do projeto.
-2. Digite o comando para dar permissão: 
-   `chmod +x. cauladora.sh`
-3. Execute o script com: 
-   `./cauladora.sh`
+1. Dê permissão de execução ao arquivo:
+   ```bash
+   chmod +x executar.sh
